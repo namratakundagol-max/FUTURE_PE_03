@@ -1,0 +1,12 @@
+Act as a website content strategist.
+
+Create a complete content structure for a premium fitness brand called "FitLife Studio" in Bangalore.
+
+Generate:
+- Homepage section structure
+- Services page structure
+- Philosophy/About page structure
+- Journal (Blog) section structure
+- Contact page structure
+
+Make it feel like a modern luxury fitness brand website.
