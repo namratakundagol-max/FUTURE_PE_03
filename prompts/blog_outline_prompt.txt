@@ -1,0 +1,19 @@
+Act as an SEO content strategist specializing in fitness and local businesses.
+
+Create an SEO-optimized blog outline for a fitness studio called "FitLife Studio" located in Bangalore.
+
+Target Audience:
+Working professionals and college students in Bangalore searching for fitness solutions.
+
+Primary Keyword:
+Best Fitness Studio in Bangalore
+
+Include:
+- SEO-friendly H1 title
+- H2 and H3 structured outline
+- Search intent focus
+- FAQs section
+- Suggested meta title (under 60 characters)
+- Meta description (under 155 characters)
+
+Ensure the outline follows proper SEO structure and is optimized for local search.
