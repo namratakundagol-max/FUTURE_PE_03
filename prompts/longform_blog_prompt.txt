@@ -1,0 +1,22 @@
+Act as an SEO content writer.
+
+Write a 1000–1200 word SEO-optimized blog post for FitLife Studio in Bangalore.
+
+Primary Keyword:
+Best Fitness Studio in Bangalore
+
+Secondary Keywords:
+Personal Training in Bangalore
+Gym for Working Professionals
+Gym for College Students
+
+Requirements:
+- Follow H1–H3 structure
+- Use natural keyword placement
+- Include introduction, benefits, tips, FAQs
+- Add internal linking suggestions
+- Make content readable and business-focused
+- Optimize for local SEO (Bangalore references)
+- Avoid keyword stuffing
+
+Ensure content is helpful, informative, and conversion-aware.
