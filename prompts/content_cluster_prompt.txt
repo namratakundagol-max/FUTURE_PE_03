@@ -1,15 +1,12 @@
-Act as an SEO strategist.
+Create a complete SEO blog strategy for the "Journal" section of FitLife Studio in Bangalore.
 
-Create a content cluster strategy for FitLife Studio in Bangalore.
-
-Primary Pillar Topic:
+Primary Topic:
 Fitness Studio in Bangalore
 
 Generate:
 - 1 pillar blog topic
-- 5 supporting cluster blog topics
-- Internal linking structure (which blog links to which)
-- Keyword intent mapping (informational, transactional, local)
-- Suggested anchor text examples
-
-Ensure the strategy supports long-term SEO growth and local ranking.
+- 5 supporting blog topics
+- Monthly content calendar (3 months)
+- Internal linking plan
+- Category structure (like Journal categories)
+- Suggested navigation structure
